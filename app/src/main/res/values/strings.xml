@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WSRBAGARDYNOV</string>
+    <string name="name">Имя</string>
+    <string name="sur_name">Фамилия</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="rep_password">Повторите пароль</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="sign">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="i_have_an_acc">У меня уже есть аккаунт</string>
+</resources>
